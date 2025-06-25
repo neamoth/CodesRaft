@@ -1,12 +1,52 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Mobile Repair Business Website | CodesRaft
 
-Currently, two official plugins are available:
+## Live Demo Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 [View Live Project: Vercel](https://codesraft.vercel.app/)
 
-## Expanding the ESLint configuration
+## Project Screenshot
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Project Screenshot](ui.png)
+
+## Description
+
+This project was built as part of a technical interview for a React Developer position. It demonstrates proficiency in modern frontend technologies and UI libraries.
+
+## Technologies Used
+
+### Frontend
+
+- React.js v19.1
+- Tailwind CSS v4.1
+- GSAP Animation
+- React-Router-7
+
+### Backend
+
+- No backend being used during the project
+
+### Deployment
+
+- Vercel
+- GitHub
+
+## Tools overview
+
+- gsap
+- react-icon
+- Swiper
+- React-router-7
+
+## Responsiveness
+
+- Desktop - 1140px
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```
+
+```
